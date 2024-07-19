@@ -1,0 +1,98 @@
+{
+    "findLabel":{
+        "ar":"جد: ",
+        "fr":"Trouver: ",
+        "en":"Find: ",
+        "es":"Encontrar: ",
+        "ru":"Найти: ",
+        "ja":"を見つける: "
+    },
+    "skipLabel":{
+        "ar":"تخطى",
+        "fr":"Sauter",
+        "en":"Skip",
+        "es":"Saltar",
+        "ru":"Пропускать",
+        "ja":"スキップ"
+    },
+    "mistakesLabel":{
+        "ar":"أخطاء: ",
+        "fr":"Fautes: ",
+        "en":"Mistakes: ",
+        "es":"Faltas: ",
+        "ru":"Ошибки: ",
+        "ja":"間違い: "
+    },
+    "resetLabel":{
+        "ar":"إعادة",
+        "fr":"Réinitialiser",
+        "en":"Reset",
+        "es":"Reiniciar",
+        "ru":"Перезапустить",
+        "ja":"リセット"
+    },
+    "stopLabel":{
+        "ar":"توقف",
+        "fr":"Arrêt",
+        "en":"Stop",
+        "es":"Detener",
+        "ru":"Прекратить",
+        "ja":"止める"
+    },
+    "languageLabel":{
+        "ar":"العربية",
+        "fr":"Français",
+        "en":"English",
+        "es":"Español",
+        "ru":"Русский",
+        "ja":"日本語"
+    },
+    "incorrectTryAgainLabel":{
+        "ar":"غير صحيح، حاول مرة أخرى",
+        "fr":"Faux, Essayez à nouveau",
+        "en":"Incorrect, try again",
+        "es":"Incorrecto, inténtelo de nuevo",
+        "ru":"Неправильно, попробуйте еще раз",
+        "ja":"間違って、もう一度試してください"
+    },
+    "scoreLabel":{
+        "ar":"النتيجة",
+        "fr":"Score",
+        "en":"Score",
+        "es":"Puntaje",
+        "ru":"Счет",
+        "ja":"スコア"
+    },
+    "numberOfCorrectAnswersLabel":{
+        "ar":"عدد الإجابات الصحيحة: ",
+        "fr":"Nombre de réponses correctes: ",
+        "en":"Number of correct answers: ",
+        "es":"Número de respuestas correctas: ",
+        "ru":"Количество правильных ответов: ",
+        "ja":"正解数: "
+    },
+    "numberOfMistakesLabel":{
+        "ar":"عدد الأخطاء: ",
+        "fr":"Nombre de faux: ",
+        "en":"Number of Mistakes: ",
+        "es":"Número de fallas: ",
+        "ru":"Количество ошибок: ",
+        "ja":"ミスの数: "
+    },
+    "timeLabel":{
+        "ar":"الوقت: ",
+        "fr":"Temps: ",
+        "en":"Time: ",
+        "es":"Tiempo: ",
+        "ru":"Время: ",
+        "ja":"時間: "
+    },
+    "percentageLabel":{
+        "ar":"النسبة: ",
+        "fr":"Pourcentage: ",
+        "en":"Percentage: ",
+        "es":"Porcentaje: ",
+        "ru":"Процент: ",
+        "ja":"割合: "
+    }
+}
